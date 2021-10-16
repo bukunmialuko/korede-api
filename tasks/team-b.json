@@ -41,7 +41,7 @@
     {
         "id": 6,
         "question": "Onward to (see image below), a puzzle awaits \nWhat's the answer",
-        "image": "bit.ly/k_bday_puzzle",
+        "image": "k_bday_puzzle.jpg",
         "taskType": "Quest",
         "answer": "rhythm"
     },
@@ -57,7 +57,7 @@
     {
         "id": 8,
         "question": "What's the first name ofthe fella in the image below: \nClue: He's the president of a country",
-        "image": "bit.ly/k_bday_p2",
+        "image": "k_bday_p2.jpg",
         "taskType": "Question",
         "answer": "fumio"
     },
