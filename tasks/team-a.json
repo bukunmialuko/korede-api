@@ -9,7 +9,7 @@
     {
         "id": 2,
         "question": "Enter the nine numbers on the last row of the solved sudoku, left to right, no spaces",
-        "image": "",
+        "image": "k_bday_puzzle.jpg",
         "taskType": "Question",
         "answer": "819743256"
     },
