@@ -1,11 +1,74 @@
 [{
-    "id": 1,
-    "question": "What us my name",
-    "taskType": "Question",
-    "answer": "Korede"
-},{
-    "id": 2,
-    "question": "How old am i",
-    "taskType": "Question",
-    "answer": "20"
-}]
+        "id": 1,
+        "question": "What's the sum of the number at the center of the suduko puzzle and the number at the topmost right corner",
+        "image": "",
+        "taskType": "Question",
+        "answer": "5"
+    },
+
+    {
+        "id": 2,
+        "question": "Enter the nine numbers on the last row of the solved sudoku, left to right, no spaces",
+        "image": "",
+        "taskType": "Question",
+        "answer": "819743256"
+    },
+
+    {
+        "id": 3,
+        "question": "Wakanda forever! \nI am black and fierce, the guardian animal of my nation \nWhat am I? \nBeneath its image, your next clue lies",
+        "image": "",
+        "isQuest": true,
+        "answer": "panther"
+    },
+
+    {
+        "id": 4,
+        "question": "What answer does your quest reveal",
+        "image": "",
+        "taskType": "Question",
+        "answer": "neil"
+    },
+
+    {
+        "id": 5,
+        "question": "An ambigram of my name, relevant in the study of geometry",
+        "image": "",
+        "taskType": "Question",
+        "answer": "line"
+    },
+
+    {
+        "id": 6,
+        "question": "Onward to (see image below), a puzzle awaits \nWhat's the answer",
+        "image": "bit.ly/k_bday_puzzle",
+        "taskType": "Quest",
+        "answer": "rhythm"
+    },
+
+    {
+        "id": 7,
+        "question": "Think of a country whose name starts with G and has 5 or 6 letters. \nWhat's the sum of the numerical equivalent of its letters (A = 1, B = 2, C = 3 etc.) \nPS: This shall be your adopted country",
+        "image": "",
+        "taskType": "Question",
+        "answer": "31"
+    },
+
+    {
+        "id": 8,
+        "question": "What's the first name ofthe fella below : \nClue: He's the president of a country",
+        "image": "bit.ly/k_bday_p1",
+        "taskType": "Question",
+        "answer": "nana"
+    },
+
+    {
+        "id": 9,
+        "question": "A certain bowl of shells sits atop your next clue",
+        "image": "",
+        "taskType": "Question",
+        "answer": "OK"
+    }
+
+
+]

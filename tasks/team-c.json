@@ -1,11 +1,73 @@
-[{
-    "id": 1,
-    "question": "What us my name",
-    "taskType": "Question",
-    "answer": "Korede"
-},{
-    "id": 2,
-    "question": "How old am i",
-    "taskType": "Question",
-    "answer": "20"
-}]
+[
+    {
+        "id": 1,
+        "question": "What's the sum of the number at the center of the suduko puzzle and the number at the topmost right corner",
+        "image": "",
+        "taskType": "Question",
+        "answer" : "5"
+    },
+
+    {
+        "id": 2,
+        "question": "Enter the nine numbers on the first row of the solved sudoku, left to right, no spaces",
+        "image": "",
+        "taskType": "Question",
+        "answer" : "497865132"
+    },
+
+    {
+        "id": 3,
+        "question": "You may know me as racing stripes; a member of the horse family. \nWhat animal am I? \nBeneath its image, your next clue lies",
+        "image": "",
+        "taskType": "Quest",
+        "answer" : "zebra"
+    },
+    
+    {
+        "id": 4,
+        "question": "What answer does your quest reveal",
+        "image": "",
+        "taskType": "Question",
+        "answer" : "neil"
+    },
+
+    {
+        "id": 5,
+        "question": "An ambigram of my name, relevant in the study of geometry",
+        "image": "",
+        "taskType": "Question",
+        "answer" : "line"
+    },
+
+    {
+        "id": 6,
+        "question": "Onward to (see image below), a puzzle awaits \nWhat's the answer" ,
+        "image": "bit.ly/k_bday_puzzle",
+        "taskType": "Quest",
+        "answer" : "rhythm"
+    },
+
+    {
+        "id": 7,
+        "question": "Think of a country whose name starts with G, and has 7 letters. \nWhat's the sum of the numerical equivalent of its letters (A = 1, B = 2, C = 3 etc.) \nPS: This shall be your adopted country",
+        "image": "",
+        "taskType": "Question",
+        "answer" : "83"
+    },
+
+    {
+        "id": 8,
+        "question": "What's the first name of the fella (see image below): \nClue: She's the prime minister of a country",
+        "image": "bit.ly/k_bday_p3",
+        "taskType": "Question",
+        "answer" : "angela"
+    },
+
+    {
+        "id": 9,
+        "question": "A certain bowl of rock sits atop your next clue",
+        "image": "",
+        "taskType": "Quest",
+        "answer" : "OK"
+    }
+]
